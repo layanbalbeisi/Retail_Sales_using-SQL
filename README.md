@@ -1,5 +1,5 @@
 # Retail Sales Using SQL
-
+ 
 ## Project Overview
 - **Project Title**: Retail Sales Using SQL
 - **Objective**: This project demonstrates SQL skills and techniques typically used by data analysts to explore, clean, and analyze retail sales data.
